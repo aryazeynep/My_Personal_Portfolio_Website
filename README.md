@@ -52,7 +52,7 @@ This is a personal portfolio website built with **React.js** and **Bootstrap** t
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/aryazeynep/My_Personal_Portfolio_Website.git
    cd portfolio-website
    ```
 2. **Install dependencies**
