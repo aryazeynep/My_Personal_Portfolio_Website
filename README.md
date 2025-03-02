@@ -27,6 +27,16 @@ This is a personal portfolio website built with **React.js** and **Bootstrap** t
 - **Contact Form** to get in touch
 - **Footer** with additional links
 
+![Home page](imagesForReadMe/home.png)
+
+![About me page](imagesForReadMe/about_me.png)
+
+![Skills page](imagesForReadMe/skills.png)
+
+![Projects page](imagesForReadMe/projects.png)
+
+![Contact page](imagesForReadMe/mail.png)
+
 ## 📂 Folder Structure
 
 ```plaintext
